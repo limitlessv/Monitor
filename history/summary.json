@@ -4,17 +4,19 @@
     "url": "https://101sam.com",
     "icon": "https://icons.duckduckgo.com/ip3/101sam.com.ico",
     "slug": "101sam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 278,
-    "timeWeek": 506,
-    "timeMonth": 425,
-    "timeYear": 425,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 222,
+    "timeWeek": 463,
+    "timeMonth": 406,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2024-12-29": 0
+    }
   }
 ]
