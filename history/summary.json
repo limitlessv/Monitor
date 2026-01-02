@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/101sam.com.ico",
     "slug": "101sam",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.57%",
-    "time": 581,
-    "timeDay": 239,
-    "timeWeek": 481,
-    "timeMonth": 413,
-    "timeYear": 589,
+    "time": 580,
+    "timeDay": 472,
+    "timeWeek": 459,
+    "timeMonth": 414,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2025-11-18": 137,
       "2025-10-17": 34,
@@ -32,8 +32,7 @@
       "2025-08-25": 299,
       "2025-05-28": 34,
       "2025-04-24": 4,
-      "2025-01-03": 18,
-      "2025-01-02": 3
+      "2025-01-03": 18
     }
   }
 ]
